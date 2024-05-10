@@ -5,4 +5,4 @@ Here we are building simple search engine  from scartch
 -   tokenization
 -   information retrieval
 -  sentence segmentation 
--   implemetation of different methods like
+-   implemetation of different methods like Precision, recall, fscore, MAP
